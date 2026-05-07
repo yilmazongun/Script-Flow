@@ -1,8 +1,14 @@
-# React + Vite
+# Audio Transcriber
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React-based web application that converts audio files into text using speech-to-text technology. Users can upload audio files and instantly get accurate transcriptions in a clean and easy-to-use interface.
 
-Currently, two official plugins are available:
+## Features
+- Upload audio files
+- Convert speech to text
+- Fast and simple UI
+- Built with React
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies
+- React
+- JavaScript
+- Speech Recognition API
